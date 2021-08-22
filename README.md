@@ -7,3 +7,6 @@
 - all and more, check the link bekow: 
 
 check and add your recipes here ;) => https://forkify-ahmed-atef.netlify.app/
+
+= used js modules, js classes, oop, sass. 
+= also used parcel v2 to compile the code.
